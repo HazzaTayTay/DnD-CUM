@@ -1,0 +1,6 @@
+2022-08-11 17:12:09.760583 frank spell cast 1
+2022-08-11 17:12:59.714735 frank Spell sort now By name
+2022-08-11 17:13:24.998289 frank spell cast -2
+2022-08-11 17:13:36.545590 frank Downloaded all spells in 0.001009225845336914s
+2022-08-11 17:21:30.048560 frank Inv sort now By name
+2022-08-11 17:34:05.271527 frank spell cast 1

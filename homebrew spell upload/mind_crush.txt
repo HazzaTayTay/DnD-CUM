@@ -1,0 +1,13 @@
+name:Mind Crush
+spelltype:Enchantment
+notes: Created by @baileybeacall
+level:2
+cast:1 Bonus Action
+range:30ft
+components:V, S
+duration:Up to 1 minute
+concentration:True
+users:Wizards
+homebrew:True
+You thrust forth a beam of psychic energy into the mind of one creature within range. The target must make an Intelligence saving throw. On a failed save, the target takes 2d6 psychic damage, and has disadvantage on attacks against you for the duration. On a successful save, the target takes half as much damage and suffers none of the spell's other effects.
+At Higher Levels: When you cast this spell using a spell slot of 3rd level or higher, the psychic damage increases by 1d6 for each slot above 2nd

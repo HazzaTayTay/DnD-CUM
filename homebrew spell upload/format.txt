@@ -1,0 +1,30 @@
+name: just what the name is ()
+spelltype: just what the school of magic is (transmutation, necromancy)
+notes: spell notes, like (UA) or (Technomagic) preferably in brackets
+level: just the number or cantrip (e.g 3, 6, cantrip)
+cast: The cast time (1 action, 10 minutes)
+range: the spells range, (30ft, self, anything really)
+components: the components (V, S, M (what m is needed))
+duration: how long the spell lasts (Instantaneous, 1 hour)
+concentration: does the spell require concentration (true, false)
+users: which classes can use the spell (Sorcerers, Wizards) use "custom" if it is for a specific player or group
+
+Then you write the description here, over multiple lines
+New lines mean a line gap between them on printing
+Make sure to include the higher levels clause if the spell has one
+
+
+EXAMPLE - Duvezin's Bubble Beam
+
+name:Duvezin's Bubble Beam
+spelltype:Conjuration
+level:1
+cast:1 Action
+range:Self (30ft line)
+components:V, S, M (a vial of bourbon)
+duration:Instantaneous
+concentration:False
+users:custom, sorcerer, wizard
+A string of bubbles emanate from your hand, and arethen fired in a 30ft long and 5ft wide line in a direction you choose. The first creature it meets must succeed on a Dexterity saving throw or be encapsulated in the flash freeze of the bubble. On a fail the creature takes 3d6 cold damage and is restrained in the bubble. On success it takes half damage and is not restrained
+If the creature takes damage whilst in the bubble, the bubble is popped and is no longer restrained
+At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, the piercing damage is increases by 1d6 for each spell slot above 1st
